@@ -4,7 +4,7 @@
 
 De *variantie* is een [spreidingsmaat](spreidingsmaat.md) die bij uitstek geschikt is voor [kwantitatieve](meetniveau.md#kwantitatieve-variabelen) variabelen die normaal verdeeld (TODO: normale verdeling) zijn.
 
-Uit de variantie wordt ook de *standaardafwijking* berekend, die nog vaker gebruikt wordt.
+Uit de variantie wordt ook de *standaardafwijking* (EN: [standard deviation](../en/variance.md#standard-deviation-of-a-sample)) berekend, die nog vaker gebruikt wordt.
 
 De variantie en standaardafwijking zijn gevoelig voor uitschieters. Bij data die niet normaal verdeeld zijn, vormen gemiddelde en standaardafwijking geen goede samenvatting van de data. In dat geval kan de [mediaan](mediaan.md) en [interkwartielafstand](interkwartielafstand.md) als alternatief dienen.
 

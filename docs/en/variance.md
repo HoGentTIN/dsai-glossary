@@ -4,7 +4,7 @@
 
 The *variance* is a [measure of dispersion](measure-of-dispersion.md) that is ideally suited for [quantitative](level-of-measurement.md#quantitative-variables) variables that are normally distributed (TODO: normal distribution).
 
-The *standard deviation* is also calculated from the variance, which is used even more often.
+The *standard deviation* (NL: [standaardafwijking](../nl/variantie.md#standaardafwijking-van-een-steekproef)) is also calculated from the variance, which is used even more often.
 
 The variance and standard deviation are sensitive to outliers. For data that is not normally distributed, mean and standard deviation are not a good summary of the data. In that case, the [median](median.md) and [interquartile range](interquartile-range.md) can serve as alternatives.
 
