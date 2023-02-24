@@ -34,7 +34,7 @@ main() {
 
   for nl_file in "docs/${from}"/*.md; do
     debug "${nl_file}"
-    en_info=$(grep 'EN:' "${nl_file}" || printf '')
+    en_info=$(grep '^(EN:' "${nl_file}" || printf '')
 
     debug "${en_info}"
     if [ -z "${en_info}" ]; then
