@@ -33,7 +33,7 @@ main() {
   local en_info en_lemma en_file nl_lemma nl_file
 
   for nl_file in "docs/${from}"/*.md; do
-    log "${nl_file}"
+    debug "${nl_file}"
     en_info=$(grep 'EN:' "${nl_file}" || printf '')
 
     debug "${en_info}"
@@ -54,6 +54,7 @@ main() {
     debug "NL: ${nl_lemma}  ${nl_file}"
 
     if [ ! -f "${en_file}" ]; then
+      log "Creating ${en_file}"
       create_en_lemma \
         "${en_lemma}" "${en_file}" \
         "${nl_lemma}" "${nl_file/docs/..}"
