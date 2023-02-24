@@ -48,7 +48,7 @@ main() {
     en_lemma="${en_lemma%%]*}"
 
     en_file="${en_info##*..}"
-    en_file="docs${en_file/))/}"
+    en_file="docs${en_file/)*)/}"
 
     debug "EN: ${en_lemma}  ${en_file}"
     debug "NL: ${nl_lemma}  ${nl_file}"
