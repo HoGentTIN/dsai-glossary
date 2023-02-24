@@ -1,10 +1,10 @@
 # Index - en
 
-## p
+## P
 
 - [population](en/population.md)
 
-## s
+## S
 
 - [sample](en/sample.md)
 - [sample mean](en/sample-mean.md)

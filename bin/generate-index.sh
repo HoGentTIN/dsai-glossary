@@ -83,7 +83,7 @@ list_entries_starting_with() {
   fi
 
   # Print a header for this letter
-  printf '\n## %s\n\n' "${letter}" >> "${index_file}"
+  printf '\n## %s\n\n' "${letter^}" >> "${index_file}"
 
   # For each entry file, add the entry and a link to the file to the index
   for entry_file in ${entry_files}; do

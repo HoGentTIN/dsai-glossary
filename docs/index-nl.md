@@ -1,14 +1,14 @@
 # Index - nl
 
-## g
+## G
 
 - [gemiddelde van een steekproef](nl/gemiddelde-steekproef.md)
 
-## p
+## P
 
 - [populatie](nl/populatie.md)
 
-## s
+## S
 
 - [steekproef](nl/steekproef.md)
 - [steekproef, aselecte](nl/steekproef-aselecte.md)
