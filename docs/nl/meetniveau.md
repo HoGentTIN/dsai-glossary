@@ -1,6 +1,6 @@
 # meetniveau
 
-(EN: [level of mearurement](../en/level-of-measurement.md))
+(EN: [level of measurement](../en/level-of-measurement.md))
 
 Onder het *meetniveau* van een variabele verstaan we het variabeletype. In de statistiek onderscheiden we volgende niveaus:
 
