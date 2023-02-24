@@ -4,10 +4,10 @@
 
 By the *measurement level* of a variable we mean the variable type. In statistics we distinguish the following levels:
 
-- Qualitative or categorical variables
+- Qualitative (also: categorical, discrete) variables
     - Nominal
     - Ordinal
-- Quantitative variables
+- Quantitative (also: continuous) variables
     - interval
     - Ratios
 

@@ -4,10 +4,10 @@
 
 Onder het *meetniveau* van een variabele verstaan we het variabeletype. In de statistiek onderscheiden we volgende niveaus:
 
-- Kwalitatieve of categorische variabelen
+- Kwalitatieve (ook: categorische, discrete) variabelen
     - Nominaal
     - Ordinaal
-- Kwantitatieve variabelen
+- Kwantitatieve (ook: continue) variabelen
     - Interval
     - Ratio
 
