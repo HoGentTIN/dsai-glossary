@@ -4,6 +4,8 @@
 
 Wanneer onderzoekers een [populatie](populatie.md) onderzoeken op basis van een [steekproef](steekproef.md), dan worden er sowieso fouten gemaakt, d.w.z. dat resultaten van metingen en analyses binnen de steekproef niet zullen overeenkomen met de werkelijke waarde over de gehele populatie.
 
+De manier waarop we een steekproef nemen kan invloed hebben op de resultaten.
+
 ## steekproeffout
 
 We kunnen te maken hebben met *willekeurige* of *systematische* steekproeffouten:
