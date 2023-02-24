@@ -43,42 +43,56 @@ main() {
 
 #{{{ Helper functions
 
+# Usage: process_entries LANG
+#  Check if entries exist for the specified LANGuage and iterate over the
+#  letters of the alphabet.
 process_entries() {
   local lang="${1}"
 
+  # Check if a directory with entries exists for the specified language
   if [ ! -d "docs/${lang}" ]; then
     error "No directory with entries present for language: ${lang}"
     exit 1
   fi
 
+  # Replace the old index file
   rm -f "${index_file}"
   printf "# Index - %s\n" "${lang}" > "${index_file}"
 
+  # Iterate over all letters
   for letter in {a..z}; do
-
     list_entries_starting_with "${letter}" "${lang}"
   done
 }
 
+# Usage: list_entries_starting_with LETTER LANG
+#   Find all entry files for the specified LANGuage starting with LETTER,
+#   and add each one to the index file.
 list_entries_starting_with() {
   local letter="${1}"
   local lang="${2}"
   local entry_dir="docs/${lang}"
   local entry_files entry
+
+  # Find all entries starting with LETTER
   entry_files=$(find "${entry_dir}" -type f -name "${letter}*.md")
 
+  # If none were found, stop
   if [ -z "${entry_files}" ]; then
     return
   fi
 
+  # Print a header for this letter
   printf '\n## %s\n\n' "${letter}" >> "${index_file}"
 
+  # For each entry file, add the entry and a link to the file to the index
   for entry_file in ${entry_files}; do
     entry=$(head -1 "${entry_file}" | cut -c3-)
     printf -- '- [%s](%s)\n' "${entry}" "${entry_file/docs\//}" >> "${index_file}"
   done
 }
 
+# Check if the number of arguments is 1
 check_args() {
   if [  "$#" -ne '1' ]; then
     error "Please select a language"
