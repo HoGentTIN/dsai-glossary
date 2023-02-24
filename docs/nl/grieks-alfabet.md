@@ -27,8 +27,8 @@ In de linkerkolom geven we telkens de hoofd- en kleine letter (en voor sommige l
 |  Ρ, ρ  |   rho   |       r        |
 | Σ, σ/ς |  sigma  |       s        |
 |  Τ, τ  |   tau   |       t        |
-|  Υ, υ  | Upsilin |       u        |
-|  Φ, φ  |   Phi   |       f        |
-|  Χ, χ  |   Chi   |       ch       |
-|  Ψ, ψ  |   Psi   |       ps       |
-|  Ω, ω  |  Omega  | oo ("grote o") |
+|  Υ, υ  | upsilin |       u        |
+|  Φ, φ  |   phi   |       f        |
+|  Χ, χ  |   chi   |       ch       |
+|  Ψ, ψ  |   psi   |       ps       |
+|  Ω, ω  |  omega  | oo ("grote o") |
