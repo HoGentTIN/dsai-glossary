@@ -16,7 +16,7 @@ We kunnen te maken hebben met *willekeurige* of *systematische* steekproeffouten
 
 ### systematische steekproeffout
 
-Een *systematische* steekproeffouten is erger, want kan er voor zorgen dat de resultaten vertekend zijn en dus niet meer [representatief](steekproef-representatieve.md) voor de populatie. Voorbeelden van systematische steekproeffouten:
+Een *systematische* steekproeffout is erger, want kan er voor zorgen dat de resultaten vertekend zijn en dus niet meer [representatief](steekproef-representatieve.md) voor de populatie. Voorbeelden van systematische steekproeffouten:
 
 - In een online enquête worden enkel personen met toegang tot internet geselecteerd. Dese steekproef is dus niet meer [aselect](steekproef-aselecte.md).
 - Als je een enquête afneemt waar mensen vrijwillig aan deelnemen, dan heb je meer kans dat mensen deelnemen die ook in het onderwerp geïnteresseerd zijn. Dat kan ook impact hebben op de resultaten.
