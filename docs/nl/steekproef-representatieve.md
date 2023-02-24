@@ -6,4 +6,4 @@ Een steekproef is *representatief* wanneer de eigenschappen van de [populatie](p
 
 Bijvoorbeeld, als in een populatie 53% zichzelf identificeren als vrouw, 46% als man en 1% als nonbinair, dan wil je als onderzoeker dat deze verhoudingen ook in een steekproef terugkomen.
 
-Kleine afwijkingen zijn daarbij wel aanvaardbaar. Een onderzoeker kan dit controleren aan de hand van een [chi-kwadraat aanpassingstoets](chi-kwadraat-aanpassingstoets.md).
+Kleine afwijkingen zijn daarbij wel aanvaardbaar. Een onderzoeker kan dit controleren aan de hand van een (TODO) [chi-kwadraat aanpassingstoets](chi-kwadraat-aanpassingstoets.md).
