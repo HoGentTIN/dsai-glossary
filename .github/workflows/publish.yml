@@ -1,4 +1,4 @@
-name: ci 
+name: publish 
 on:
   push:
     branches:
@@ -17,5 +17,7 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-material
+      - run: ./bin/generate-index.sh nl
+      - run: ./bin/generate-index.sh en
       - run: mkdocs gh-deploy --force

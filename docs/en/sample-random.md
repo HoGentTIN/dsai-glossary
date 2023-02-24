@@ -1,4 +1,4 @@
-# random sample
+# sample, random
 
 (NL: [steekproef, aselecte](../nl/steekproef-aselecte.md))
 

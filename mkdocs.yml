@@ -1,5 +1,10 @@
 site_name: Data Science & AI Glossary
 
+nav:
+  - index.md
+  - index-nl.md
+  - index-en.md
+
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
