@@ -23,12 +23,11 @@ De lijst hieronder komt uit een eerdere poging om een systematische woordenlijst
 
 | Nederlands                                     | Engels                                      |
 | :--------------------------------------------- | :------------------------------------------ |
-| waarneming                                     | observation                                 |
-| frequentie, absolute ~                         | frequency, absolute ~                       |
-| frequentie, relatieve ~                        | frequency, relative ~                       |
-| kruistabel                                     | contingency table, crosstab                 |
-| observatie                                     | observation                                 |
-| verband (tussen variabelen)                    | association, relation                       |
+| ~~waarneming~~                                 | observation                                 |
+| ~~frequentie, absolute ~~                         | frequency, absolute ~                       |
+| ~~frequentie, relatieve ~~                        | frequency, relative ~                       |
+| ~~kruistabel~~                                     | contingency table, crosstab                 |
+| ~~observatie~~                                     | observation                                 |
 
 ### Hst 2. Analyse van 1 variabele
 
@@ -66,6 +65,7 @@ De lijst hieronder komt uit een eerdere poging om een systematische woordenlijst
 
 | Nederlands                                     | Engels                                      |
 | :--------------------------------------------- | :------------------------------------------ |
+| verband (tussen variabelen)                    | association, relation                       |
 | aanpassingstoets (chi-kwadraat ~)              | chi-squared goodness-of-fit test            |
 | chi-kwadraattoets voor associatie              | chi-squared test for independence           |
 | chi-kwadraatverdeling                          | chi-squared distribution                    |

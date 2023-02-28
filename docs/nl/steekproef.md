@@ -2,7 +2,7 @@
 
 (EN: [sample](../en/sample.md))
 
-Een steekproef is een deelverzameling uit een populatie waarop het onderzoek wordt uitgevoerd.
+Een *steekproef* is een deelverzameling uit een populatie waarop het onderzoek wordt uitgevoerd.
 
 Onder bepaalde omstandigheden (TODO: centrale limietstelling) mag je veronderstellen dat resultaten bekomen in de steekproef ook gelden voor de populatie als geheel.
 
