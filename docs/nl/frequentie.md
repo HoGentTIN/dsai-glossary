@@ -1,6 +1,6 @@
 # frequentie
 
-(EN: [frequence](../en/frequence.md))
+(EN: [frequency](../en/frequency.md))
 
 De *frequentie* van een waarde van een variabele in een dataset of steekproef is het aantal keer dat die waarde voorkomt.
 
