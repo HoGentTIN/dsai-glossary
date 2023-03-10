@@ -60,7 +60,7 @@ Working out the full formal mathematical basis of continuous distributions is be
 
     $$\int_{-\infty}^{a} f(x) \mathrm{d}x = 1 - \int_{b}^{+\infty} f(x) \mathrm{d}x$$
 
-We also call a probability $P(X \leq a) a *left-tail probability*, $P(X \geq a)$ a *right-tail probability*.
+We also call a probability $P(X \leq a)$ a *left-tail probability*, $P(X \geq a)$ a *right-tail probability*.
 
 ## Well-known probability distributions
 
