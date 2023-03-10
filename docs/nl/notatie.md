@@ -20,4 +20,4 @@ Zie ook [kans](kans.md).
 |    $\Omega$    | universum                                                 |
 | $A, B, \ldots$ | gebeurtenissen (met $A \in \Omega$, $B \in \Omega$, enz.) |
 |     $P(A)$     | de kans op gebeurtenis $A$ (met $0 \leq P(A) \leq 1$)     |
-|    $P(A|B)$    | de kans op $A$ als $B$ zich voordoet                      |
+| $P(A&#124;B)$  | de kans op $A$ als $B$ zich voordoet                      |
