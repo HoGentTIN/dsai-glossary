@@ -58,7 +58,7 @@ Working out the full formal mathematical basis of continuous distributions is be
 
 - The complement rule also applies, so $P(X \leq a) = 1 - P(X \geq a)$.
 
-    $$\int_{-\infty}^{a} f(x) \mathrm{d}x = 1 - \int_{b}^{+\infty} f(x) \mathrm{d}x$$
+    $$\int_{-\infty}^{a} f(x) \mathrm{d}x = 1 - \int_{a}^{+\infty} f(x) \mathrm{d}x$$
 
 We also call a probability $P(X \leq a)$ a *left-tail probability*, $P(X \geq a)$ a *right-tail probability*.
 

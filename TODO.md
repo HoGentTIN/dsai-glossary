@@ -33,7 +33,6 @@ De lijst hieronder komt uit een eerdere poging om een systematische woordenlijst
 | aanvaardingsgebied                             | acceptance region                           |
 | betrouwbaarheidsinterval                       | confidence interval                         |
 | betrouwbaarheidsniveau                         | confidence level                            |
-| gebeurtenissen, onafhankelijke ~               | events, independent ~                       |
 | kritieke grenswaarde                           | critical value                              |
 | normaalverdeling                               | normal distribution                         |
 | overschrijdingskans                            | p-value                                     |
@@ -42,10 +41,6 @@ De lijst hieronder komt uit een eerdere poging om een systematische woordenlijst
 | toets (statistische ~)                         | statistical hypothesis test                 |
 | toetsingsgrootheid                             | test statistic                              |
 | verwerpingsgebied                              | rejection region                            |
-| verwachtingswaarde                             | expected value, expectation                 |
-
-- kansverdeling
-- verwachtingswaarde
 
 ### Hst 4. Chi-kwadraat
 

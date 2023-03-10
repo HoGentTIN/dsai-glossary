@@ -60,7 +60,7 @@ Het uitwerken van de volledige formele wiskundige basis van continue verdelingen
 
 - De complementregel geldt ook, dus $P(X \leq a) = 1 - P(X \geq a)$.
 
-    $$\int_{-\infty}^{a} f(x) \mathrm{d}x = 1 - \int_{b}^{+\infty} f(x) \mathrm{d}x$$
+    $$\int_{-\infty}^{a} f(x) \mathrm{d}x = 1 - \int_{a}^{+\infty} f(x) \mathrm{d}x$$
 
 Een kans $P(X \leq a) noemen we ook een *linkerstaartkans*, $P(X \geq a)$ een *rechterstaartkans*.
 
