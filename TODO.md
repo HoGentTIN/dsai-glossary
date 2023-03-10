@@ -19,16 +19,6 @@
 
 De lijst hieronder komt uit een eerdere poging om een systematische woordenlijst met vakterminologie op te lijsten. Afgewerkte lemma's zijn al verwijderd, dus dit zijn er die zeker nog moeten toegevoegd worden.
 
-### Hst 1. Steekproefonderzoek
-
-| Nederlands                                     | Engels                                      |
-| :--------------------------------------------- | :------------------------------------------ |
-| ~~waarneming~~                                 | observation                                 |
-| ~~frequentie, absolute ~~                         | frequency, absolute ~                       |
-| ~~frequentie, relatieve ~~                        | frequency, relative ~                       |
-| ~~kruistabel~~                                     | contingency table, crosstab                 |
-| ~~observatie~~                                     | observation                                 |
-
 ### Hst 2. Analyse van 1 variabele
 
 | Nederlands                                     | Engels                                      |
@@ -44,22 +34,18 @@ De lijst hieronder komt uit een eerdere poging om een systematische woordenlijst
 | betrouwbaarheidsinterval                       | confidence interval                         |
 | betrouwbaarheidsniveau                         | confidence level                            |
 | gebeurtenissen, onafhankelijke ~               | events, independent ~                       |
-| kans, probabiliteit, waarschijnlijkheid        | probability                                 |
-| kansdichtheid                                  | probability density                         |
-| kansverdeling                                  | probability distribution                    |
 | kritieke grenswaarde                           | critical value                              |
-| linkerstaartkans                               | left tail probability                       |
 | normaalverdeling                               | normal distribution                         |
 | overschrijdingskans                            | p-value                                     |
-| rechterstaartkans                              | right tail probability                      |
 | significantieniveau                            | significance level                          |
-| stochastische variabele                        | random variable                             |
 | Student-t verdeling                            | Student-t distribution                      |
 | toets (statistische ~)                         | statistical hypothesis test                 |
 | toetsingsgrootheid                             | test statistic                              |
-| verdeling (kans~)                              | distribution (probability ~)                |
 | verwerpingsgebied                              | rejection region                            |
 | verwachtingswaarde                             | expected value, expectation                 |
+
+- kansverdeling
+- verwachtingswaarde
 
 ### Hst 4. Chi-kwadraat
 
