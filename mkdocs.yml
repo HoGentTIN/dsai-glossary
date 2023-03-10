@@ -13,12 +13,6 @@ nav:
       - Index: 'index-en.md'
       - Notation: 'en/notation.md'
 
-
-theme:
-  name: material
-  features:
-    - navigation.expand
-
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -27,6 +21,15 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+  logo: "images/icons8-scatter-plot-96.png"
 
 extra_javascript:
   - javascripts/mathjax.js
