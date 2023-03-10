@@ -30,6 +30,18 @@ Deze functie voldoet aan de axioma's van de kansrekening:
 - $\sum_x P(X = x) = 1$
 - Ook de somregel werkt, bv. de kans dat je een even getal gooit is $P(X = 2) + P(X = 4) + \ldots + P(X = 12) = 18/36 = 1/2$.
 
+De *verwachtingswaarde* (of *verwachte waarde*; EN: *expecation*, expected value) van een discrete stochastische variabele, genoteerd $\mu_X$ of $E(X)$ is:
+
+$$\mu_X = \sum_x x \cdot P(X = x) = \sum_x x \cdot f_X(x)$$
+
+De *variantie* (EN: *variance*) van een discrete stochastische variabele, genoteerd $\sigma_X^2$ is:
+
+$$\sigma_X^2 = \sum_x (x - \mu_X)^2 \cdot P(X = x) = \sum_x (x - \mu_X)^2 \cdot f_X(x)$$
+
+De *standaardafwijking* (EN: *standard deviation*) van een discrete stochastische variabele, genoteerd $\sigma_X$ is dan de vierkantswortel van de variantie:
+
+$$\sigma_X = \sqrt{\sigma_X^2}$$
+
 ## Kansdichtheidsfunctie
 
 (EN: *probability density function*)
@@ -59,4 +71,4 @@ We sommen hier de kansverdelingen op die in deze cursus aan bod komen. Voor een 
 - De (TODO) normale verdeling
 - De (TODO) Student-t verdeling
 - De (TODO) uniforme verdeling
-- DE (TODO) $\chi^2$ verdeling (chi-kwadraat)
+- De (TODO) $\chi^2$ verdeling (chi-kwadraat)

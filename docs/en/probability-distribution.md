@@ -28,6 +28,18 @@ This function satisfies the axioms of probability theory:
 - $\sum_x P(X = x) = 1$
 - The sum rule also works, e.g. the probability that you throw an even number is $P(X = 2) + P(X = 4) + \ldots + P(X = 12) = 18/36 = 1/2$.
 
+The expectation or expected value (NL: *verwachtingswaarde*, *verwachte waarde*) of a discrete random variable, notated $\mu_X$ or $E(X)$ is:
+
+$$\mu_X = \sum_x x \cdot P(X = x) = \sum_x x \cdot f_X(x)$$
+
+The *variance* (NL: *variantie*) of a discrete random variable, notated $\sigma_X^2$ is:
+
+$$\sigma_X^2 = \sum_x (x - \mu_X)^2 \cdot P(X = x) = \sum_x (x - \mu_X)^2 \cdot f_X(x)$$
+
+De *standard deviation* (NL: *standaardafwijking*) of a discrete random variable, notated $\sigma_X$ is the square root of the variance:
+
+$$\sigma_X = \sqrt{\sigma_X^2}$$
+
 ## Probability density function
 
 (NL: *kansdichtheidsfunctie*)
@@ -52,4 +64,9 @@ We also call a probability $P(X \leq a) a *left-tail probability*, $P(X \geq a)$
 
 ## Well-known probability distributions
 
-Here we list the probability distributions that are discussed in this course. For a more comprehensive list, see e.g. 
+Here we list the probability distributions that are discussed in this course. For a more comprehensive list, see e.g. [Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution).
+
+- The (TODO) normal distribution
+- The (TODO) Student-t distribution
+- The (TODO) uniform distribution
+- The (TODO) $\chi^2$ distribution (chi-squared)
