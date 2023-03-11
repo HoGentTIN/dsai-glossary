@@ -15,9 +15,9 @@
 
 See also [probability](probability.md)
 
-|     Symbol     | Interpretation                                           |
-| :------------: | :------------------------------------------------------- |
-|    $\Omega$    | universe                                                 |
-| $A, B, \ldots$ | events (with $A \in \Omega$, $B \in \Omega$, etc.)       |
-|     $P(A)$     | the probability of event $A$ (with $0 \leq P(A) \leq 1$) |
-| $P(A&#124;B)$  | the probability of $A$ if $B$ occurs                     |
+|     Symbol     | Interpretation                                             |
+| :------------: | :--------------------------------------------------------- |
+|    $\Omega$    | universe                                                   |
+| $A, B, \ldots$ | events (with $A \subset \Omega$, $B \subset \Omega$, etc.) |
+|     $P(A)$     | the probability of event $A$ (with $0 \leq P(A) \leq 1$)   |
+| $P(A&#124;B)$  | the probability of $A$ if $B$ occurs                       |

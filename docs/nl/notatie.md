@@ -15,9 +15,9 @@
 
 Zie ook [kans](kans.md).
 
-|    Symbool     | Betekenis                                                 |
-| :------------: | :-------------------------------------------------------- |
-|    $\Omega$    | universum                                                 |
-| $A, B, \ldots$ | gebeurtenissen (met $A \in \Omega$, $B \in \Omega$, enz.) |
-|     $P(A)$     | de kans op gebeurtenis $A$ (met $0 \leq P(A) \leq 1$)     |
-| $P(A&#124;B)$  | de kans op $A$ als $B$ zich voordoet                      |
+|    Symbool     | Betekenis                                                         |
+| :------------: | :---------------------------------------------------------------- |
+|    $\Omega$    | universum                                                         |
+| $A, B, \ldots$ | gebeurtenissen (met $A \subset \Omega$, $B \subset \Omega$, enz.) |
+|     $P(A)$     | de kans op gebeurtenis $A$ (met $0 \leq P(A) \leq 1$)             |
+| $P(A&#124;B)$  | de kans op $A$ als $B$ zich voordoet                              |
