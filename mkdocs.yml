@@ -30,6 +30,7 @@ theme:
   features:
     - navigation.expand
   logo: "images/icons8-scatter-plot-96.png"
+  favicon: "images/icons8-scatter-plot-96-black.png"
 
 extra_javascript:
   - javascripts/mathjax.js
