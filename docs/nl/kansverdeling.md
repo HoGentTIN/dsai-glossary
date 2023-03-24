@@ -68,7 +68,7 @@ Een kans $P(X \leq a) noemen we ook een *linkerstaartkans*, $P(X \geq a)$ een *r
 
 We sommen hier de kansverdelingen op die in deze cursus aan bod komen. Voor een uitgebreidere lijst, zie bv. [Wikipedia](https://nl.wikipedia.org/wiki/Kansverdeling).
 
-- De (TODO) normale verdeling
-- De (TODO) Student-t verdeling
-- De (TODO) uniforme verdeling
-- De (TODO) $\chi^2$ verdeling (chi-kwadraat)
+- De [normale verdeling](normale-verdeling.md)
+- De [t-verdeling](t-verdeling.md)
+- De uniforme verdeling
+- De [$\chi^2$ verdeling](chi-kwadraatverdeling.md) (chi-kwadraat)

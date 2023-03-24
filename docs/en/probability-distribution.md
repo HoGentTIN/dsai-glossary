@@ -66,7 +66,7 @@ We also call a probability $P(X \leq a)$ a *left-tail probability*, $P(X \geq a)
 
 Here we list the probability distributions that are discussed in this course. For a more comprehensive list, see e.g. [Wikipedia](https://en.wikipedia.org/wiki/Probability_distribution).
 
-- The (TODO) normal distribution
-- The (TODO) Student-t distribution
-- The (TODO) uniform distribution
-- The (TODO) $\chi^2$ distribution (chi-squared)
+- The [normal distribution](normal-distribution.md)
+- The [Student's t distribution](t-distribution.md)
+- The uniform distribution
+- The [$\chi^2$ distribution](chi-squared-test.md) (chi-squared)

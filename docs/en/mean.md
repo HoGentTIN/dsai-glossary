@@ -10,7 +10,7 @@ The mean is often used in comnbination with the [standard deviation](variance.md
 
 The (arithmetic) mean $\overline{x}$ of a sample $X = \{x_1, \ldots, x_n\}$ of size $n$ is
 
-\[\overline{x} = \frac{1}{n} \sum_{x=1}^{n} x_i\]
+$$\overline{x} = \frac{1}{n} \sum_{x=1}^{n} x_i$$
 
 ## population mean
 

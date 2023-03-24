@@ -4,7 +4,7 @@
 
 A **sample** is a subset from a population on which the research is conducted.
 
-Under certain circumstances (TODO: central limit theorem) you may assume that results obtained in the sample also apply to the population as a whole.
+Under [certain circumstances](central-limit-theorem.md), you may assume that results obtained in the sample also apply to the population as a whole.
 
 A "good" sample has several properties:
 
@@ -20,4 +20,4 @@ Ideally, a researcher would do the following to draw a sample from a population:
 
 It is often difficult or impossible to set up a sampling frame. In such cases, the researcher chooses a different sampling method and tries to approximate the properties listed above as closely as possible within the available time and budget.
 
-Even under the best of circumstances, the result within a sample is likely to deviate from the "true" value in the [population](population.md), although we hope we can approach it sufficiently (TODO: confidence interval). So by taking a sample we introduce [errors](sampling-errors.md).
+Even under the best of circumstances, the result within a sample is likely to deviate from the "true" value in the [population](population.md), although we hope we can approach it sufficiently. So by taking a sample we introduce [errors](sampling-errors.md).
