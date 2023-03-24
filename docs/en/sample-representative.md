@@ -6,4 +6,4 @@ A sample is *representative* if the properties of the [population](population.md
 
 For example, if in a population 53% identify themselves as female, 46% as male, and 1% as nonbinary, then as a researcher you want these proportions to be reflected in a sample as well.
 
-Small deviations are acceptable, though, and a researcher can verify whether this is the case using a (TODO) [chi-squared goodness-of-fit test](chi-squared-goodness-of-fit-test.md).
+Small deviations are acceptable, though, and a researcher can verify whether this is the case using a (TODO) [chi-squared goodness-of-fit test](chi-squared-test.md#goodness-of-fit-test).
