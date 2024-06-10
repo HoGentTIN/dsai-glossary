@@ -83,7 +83,12 @@ _EOF_
 
 # Usage generate_file_name TERM LANG
 generate_file_name() {
-  local term="${1// /-}"
+  # Remove non-alphanumeric characters
+  local clean_term="${1//[^[:alnum:][:space:]-]/}"
+  # Convert to lowercase
+  local lcase_term="${clean_term,,}"
+  # Replace spaces by dashes
+  local term="${lcase_term// /-}"
   local lang="${2}"
 
   printf '%s/%s.md' "${lang}" "${term}"
