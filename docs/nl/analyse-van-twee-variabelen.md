@@ -19,11 +19,11 @@ Geschikte technieken voor de visualisatie of analyse van twee variabelen hangen 
 
 ## Analysetechnieken
 
-| Onafhankelijke variabele | Afhankelijke variabele | Toets                                                                   | Maat                                   |
-| :----------------------: | :--------------------: | :---------------------------------------------------------------------- | :------------------------------------- |
-|       Kwalitatief        |      Kwalitatief       | [Onafhankelijkheidstoets](chi-kwadraattoets.md#onafhankelijkheidstoets) | [Cramér's V](cramers-v.md)             |
-|       Kwalitatief        |      Kwantitatief      | [T-toets](t-toets.md#t-toets-voor-twee-steekproeven)                    | [Cohen's d](effectgrootte.md)          |
-|       Kwantitatief       |      Kwantitatief      |                                                                         | [Correlatiecoëfficiënt](correlatie.md) |
+| Onafhankelijke variabele | Afhankelijke variabele | Toets                                                                             | Maat                                   |
+| :----------------------: | :--------------------: | :-------------------------------------------------------------------------------- | :------------------------------------- |
+|       Kwalitatief        |      Kwalitatief       | [$\chi^ 2$-onafhankelijkheidstoets](chi-kwadraattoets.md#onafhankelijkheidstoets) | [Cramér's V](cramers-v.md)             |
+|       Kwalitatief        |      Kwantitatief      | [t-toets](t-toets.md#t-toets-voor-twee-steekproeven)                              | [Cohen's d](effectgrootte.md)          |
+|       Kwantitatief       |      Kwantitatief      |                                                                                   | [Correlatiecoëfficiënt](correlatie.md) |
 
 - In het geval van twee kwantitatieve variabelen onderzoeken we in deze cursus enkel of er een *lineair* verband bestaat tussen de twee variabelen.
 - Merk op dat er wel degelijk een statistische toetsingsprocedure bestaat om lineaire correlatie te onderzoeken, maar dat deze niet in deze cursus behandeld wordt.
