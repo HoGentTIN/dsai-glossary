@@ -4,9 +4,9 @@
 
 A *probability* is a number that indicates how likely it is that a certain event will happen during an experiment. In other words, the probability represents the relative [frequency](frequency.md) of the occurrence of the event at hand when performing a large number of (independent) experiments.
 
-## universe
+## universe, sample space
 
-The set of all possible outcomes of an event is called the *universe*, noted as $\Omega$ ([Greek capital letter](greek-alphabet.md) Omega).
+The set of all possible outcomes of an event is called the *sample space* or *universe*, noted as $\Omega$ ([Greek capital letter](greek-alphabet.md) Omega).
 
 Events are subsets of $\Omega $ and are typically noted as a capital letter (e.g. $A, B, \ldots$).
 

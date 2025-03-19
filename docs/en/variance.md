@@ -31,3 +31,19 @@ $$\sigma^2 = \frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2$$
 The *standard deviation* is the square root of the variance:
 
 $$\sigma = \sqrt{\sigma^2} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (x_i - \mu)^2}$$
+
+## variance and standard deviation of a discrete stochastic variable
+
+The *variance* $\sigma_X^2$ of a discrete stochastic variable $X$ with expected value $\mu_X$ is calculated as follows:
+
+$$\sigma_X^2 = \sum_x (x - \mu_X)^2 \cdot P(X = x)$$
+
+The *standard deviation* is then $\sigma_X = \sqrt{\sigma_X^2}$.
+
+## variance and standard deviation of a continuous stochastic variable
+
+The *variance* $\sigma_X^2$ of a continuous stochastic variable $X$ with expected value $\mu_X$ is calculated as follows:
+
+$$\sigma_X^2 = \int_{-\infty}^{+\infty} (x - \mu_X)^2 \cdot f_X(x) \, \mathrm{d}x$$
+
+Again, the *standard deviation* is $\sigma_X = \sqrt{\sigma_X^2}$.

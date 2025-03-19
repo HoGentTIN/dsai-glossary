@@ -4,9 +4,9 @@
 
 Een *kans*, *waarschijnlijkheid* of *probabiliteit* is een getal dat aangeeft hoe waarschijnlijk het is dat een bepaalde gebeurtenis zich tijdens een experiment zal voordoen. In andere woorden, de waarschijnlijkheid vertegenwoordigt de relatieve [frequentie](frequentie.md) van het optreden van de gebeurtenis bij het uitvoeren van een groot aantal (onafhankelijke) experimenten.
 
-## universum
+## universum, uitkomstenruimte
 
-De verzameling van alle mogelijke uitkomsten van een gebeurtenis noemen we het *universum*, genoteerd als $\Omega$ ([Griekse hoofdletter](grieks-alfabet.md) Omega).
+De verzameling van alle mogelijke uitkomsten van een gebeurtenis noemen we de *uitkomstenruimte* of het *universum*, genoteerd als $\Omega$ ([Griekse hoofdletter](grieks-alfabet.md) Omega).
 
 Gebeurtenissen zijn deelverzamelingen van $\Omega$ en worden typisch genoteerd als een hoofdletter (vb. $A, B, \ldots$).
 
