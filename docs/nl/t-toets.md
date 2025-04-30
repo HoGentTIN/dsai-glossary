@@ -15,4 +15,7 @@ De procedure van de t-toets voor één steekproef verloopt nagenoeg identiek aan
 
 ## t-toets voor twee steekproeven
 
-TODO
+De t-toets kan ook gebruikt worden om het verschil van de gemiddelden van *twee* steekproeven te bepalen. We onderscheiden twee gevallen:
+
+- **Onafhankelijke steekproeven**: de twee steekproeven zijn afzonderlijk genomen en de toets beoordeelt of de gemiddelden van de twee steekproeven al dan niet gelijk zijn.
+- **Gepaarde steekproeven**: voor elke observatie in de eerste steekproef is er een bijbehorende observatie in de tweede steekproef (bijvoorbeeld een keer vóór en een keer na een bepaalde interventie). De toets beoordeelt of het gemiddelde van de verschillen tussen de twee metingen al dan niet gelijk is aan nul.

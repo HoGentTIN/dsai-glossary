@@ -15,4 +15,7 @@ The procedure of the t-test for one sample is almost identical to that of the z-
 
 ## two sample t-test
 
-TODO
+The t-test can also be used to determine the difference in means of *two* samples. We distinguish two cases:
+
+- **Independent samples**: the two samples are taken separately and the test assesses whether the means of the two samples are equal or not.
+- **Paired samples**: for each observation in the first sample, there is a corresponding observation in the second sample (for example, once before and once after a certain intervention). The test assesses whether or not the mean of the differences between the two measurements is equal to zero.
